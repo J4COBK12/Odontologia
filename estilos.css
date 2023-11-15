@@ -1,0 +1,131 @@
+body {
+    background-color: #bbe3db;
+}
+
+.menu {
+    background-color: #048a73;
+    color: white;
+    padding: 20px;
+    height: 100%;
+}
+
+.container {
+    margin-top: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #74c4b4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    
+}
+
+.menu-item {
+    margin-bottom: 10px;
+}
+
+.main-content {
+    background-color: #74c4b4;
+    padding: 20px;
+}
+
+.table {
+    background-color: #2ca48c;
+    color: white;
+}
+
+.estudiante-autorizar {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.menu-item {
+    margin-bottom: 10px;
+}
+
+.form-container {
+    background-color: #2ca48c;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.btn-primary {
+    background-color: #048a73;
+    border-color: #048a73;
+}
+
+.btn-primary:hover {
+    background-color: #048a73;
+    color: white;
+}
+
+.login-container {
+    background-color: #74c4b4;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.login-container h2 {
+    color: #048a73;
+    text-align: center;
+}
+
+.login-form {
+    margin-top: 20px;
+}
+
+.form-group label {
+    color: #048a73;
+}
+
+.form-control {
+    background-color: #2ca48c;
+    color: white;
+}
+
+.forgot-password {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.forgot-password a {
+    color: #048a73;
+}
+
+h2 {
+    color: #048a73;
+    text-align: center;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.menu li {
+    margin-bottom: 10px;
+}
+
+.nav-tabs {
+    background-color: white;
+    color: white;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #2ca48c;
+    color: white;
+}
+
+.dropdown-menu {
+    background-color: #048a73;
+}
+
+.dropdown-menu a {
+    color: white !important;
+}
